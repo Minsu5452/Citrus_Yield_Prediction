@@ -45,6 +45,7 @@
 - 노트북 출력 결과와 실행 메타데이터는 제거했습니다.
 - 실행하려면 DACON 대회 데이터를 `data/` 경로에 별도로 배치해야 합니다.
 
-## Link
+## Links
 
 - [DACON competition page](https://dacon.io/competitions/official/236038/overview/description)
+- [DACON code share: Private 17th solution](https://dacon.io/competitions/official/236038/codeshare/7302)
