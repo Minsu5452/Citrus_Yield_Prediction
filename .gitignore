@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+
+data/
+submissions/
+models/
+
+*.csv
+*.pkl
+*.joblib
+*.h5
+*.keras
